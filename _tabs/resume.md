@@ -76,7 +76,7 @@ Skills:
 
 ## **PROJECTS:**
 
-**Used iPhone Pricing Tool ([Github repo](https://github.com/ArgonIntel/used-iphone-pricing-tool))
+**Used iPhone Pricing Tool** ([Github repo](https://github.com/ArgonIntel/used-iphone-pricing-tool))
 - Developed a tool for pricing used iPhones based on Model, Storage space, Battery Health
 - Scraped classified ads with a custom-built scraper in Selenium
 - Data cleaning and preprocessing with Pandas
@@ -85,28 +85,28 @@ Skills:
 
 ## **PROFESSIONAL EXPERIENCE:**
 
-**Independent Sales Representative for Solar Panels**
+**Independent Sales Representative for Solar Panels**  
 Forte Solar, Croatia  
-February 2022 - March 2023
+February 2022 - March 2023  
 - Analysed customer needs based on power consumption, technical abilities
 - Developed detailed calculations for Solar power plant design to maximize savings on electrical bill
 
-**Life Insurance Agent**
-Triglav Savjetovanje, Croatia
-June 2020 - December 2021
-Conducted data-driven analysis to identify customer needs and tailor insurance products.
-Improved the sales strategy that increased sales revenue by 15%
+**Life Insurance Agent**  
+Triglav Savjetovanje, Croatia  
+June 2020 - December 2021  
+- Conducted data-driven analysis to identify customer needs and tailor insurance products.
+- Improved the sales strategy that increased sales revenue by 15%
 
-Facebook Ads Marketing Consultant
-Own Business, Austria
-October 2017 - March 2020
-Analyzed customer needs for business growth
-Developed tailor-made strategy for advertising by designing campaigns and educating stuff on sales strategies
-Automated lead generation strategies, reducing manual effort by 30%
+**Facebook Ads Marketing Consultant**  
+Own Business, Austria  
+October 2017 - March 2020  
+- Analyzed customer needs for business growth
+- Developed tailor-made strategy for advertising by designing campaigns and educating stuff on sales strategies
+- Automated lead generation strategies, reducing manual effort by 30%
 
-Business Development Associate - Financial Advisory
-deVere Group/Magnitude Wealth, Czech Republic
-August 2015 - June 2017
-Analyzed market data to identify high-net-worth individuals for financial advisory services
-Developed a strategy for finding contact details that improved search time and outreach by 25%
+**Business Development Associate** - Financial Advisory  
+deVere Group/Magnitude Wealth, Czech Republic  
+August 2015 - June 2017  
+- Analyzed market data to identify high-net-worth individuals for financial advisory services
+- Developed a strategy for finding contact details that improved search time and outreach by 25%
 
